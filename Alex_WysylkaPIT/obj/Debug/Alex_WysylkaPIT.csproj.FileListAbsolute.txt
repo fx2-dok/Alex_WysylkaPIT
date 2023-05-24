@@ -1,0 +1,18 @@
+C:\Program Files\Common Files\Soneta\Assemblies\Alex_WysylkaPIT.dll
+C:\Program Files\Common Files\Soneta\Assemblies\Alex_WysylkaPIT.pdb
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.csproj.CopyComplete
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.dll
+C:\Users\dawid\source\repos\Alex\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.pdb
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.csproj.CopyComplete
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.dll
+C:\Users\dawid\source\repos\Alex - WysyłkaPIT\Alex_WysylkaPIT\Alex_WysylkaPIT\obj\Debug\Alex_WysylkaPIT.pdb

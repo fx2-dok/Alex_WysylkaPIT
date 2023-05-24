@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Soneta.Sdk">
+  <PropertyGroup>
+    <TargetFramework>$(SonetaTargetFramework)</TargetFramework>
+    <AssemblyVersion></AssemblyVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Program Files\Common Files\Soneta\Assemblies\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="PDFsharp" Version="1.50.5147" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.XtraReports.v20.2">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Soneta\enova365 2212.1.1.0\DevExpress.XtraReports.v20.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Soneta.Deklaracje.Forms">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Soneta\enova365 2212.2.5.0\Soneta.Deklaracje.Forms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Soneta.Deklaracje.Reports">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Soneta\enova365 2212.2.5.0\Soneta.Deklaracje.Reports.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Soneta.Deklaracje.UI">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Soneta\enova365 2212.2.5.0\Soneta.Deklaracje.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+</Project>
